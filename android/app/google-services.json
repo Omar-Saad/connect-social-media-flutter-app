@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "324911820381",
+    "project_id": "connect-social-app-c3e08",
+    "storage_bucket": "connect-social-app-c3e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324911820381:android:cbeed894cb0c65be6727b4",
+        "android_client_info": {
+          "package_name": "com.omar.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324911820381-qq3nnfl21kj82qu7fh2pdmtcu7e54scp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omar.connect",
+            "certificate_hash": "6daf78c6753e308bf96ecde94a21e25ac2efb3c6"
+          }
+        },
+        {
+          "client_id": "324911820381-2o9kv6g2ola6f0577uh6a04f4lvgcb9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWCrV0EvArZIkPYL7zSDGOYV06f3c3uP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324911820381-2o9kv6g2ola6f0577uh6a04f4lvgcb9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
